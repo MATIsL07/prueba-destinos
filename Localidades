@@ -12,7 +12,8 @@
 { "type": "Feature", "properties": { "id": 7, "nombre": "Pedro Luro", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -62.67466471435345, -39.51427503549727  ] } },
 { "type": "Feature", "properties": { "id": 8, "nombre": "Villalonga", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -62.663242746948036, -39.890340013210164  ] } },
 { "type": "Feature", "properties": { "id": 9, "nombre": "Stroeder", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -62.65522244782166, -40.16967023756595 ] } },
-{ "type": "Feature", "properties": { "id": 10, "nombre": "Retiro", "empresa": ["Plusmar","Ceferino"] }, "geometry": { "type": "Point", "coordinates": [ -58.37407590810985, -34.586073139329216 ] } },
+{ "type": "Feature", "properties": { "id": 10, "nombre": "Retiro", "empresa": ["Plusmar","Ceferino", "Tony Tur"] }, "geometry": { "type": "Point", "coordinates": [ -58.37407590810985, -34.586073139329216 ] } },
 { "type": "Feature", "properties": { "id": 11, "nombre": "Viedma", "empresa": "Ceferino" }, "geometry": { "type": "Point", "coordinates": [ -63.004056866850696, -40.820561914629074] } },
-{ "type": "Feature", "properties": { "id": 12, "nombre": "Necochea", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.73074505037225, -38.54858638483965 ] } }]
+{ "type": "Feature", "properties": { "id": 12, "nombre": "Mar del Plata", "empresa": "Tony Tur" }, "geometry": { "type": "Point", "coordinates": [ -57.56378039770705, -37.98846468842799] } },
+{ "type": "Feature", "properties": { "id": 13, "nombre": "Necochea", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.73074505037225, -38.54858638483965 ] } }]
 }
