@@ -3,7 +3,7 @@
 "name": "Plusmar",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 1, "localidad": "Olavarría", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -60.31391945578942, -36.89540897828349 ] } },
-{ "type": "Feature", "properties": { "id": 2, "localidad": "Bahía Blanca", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -62.246726900356244, -38.736073431827904 ] } },
-{ "type": "Feature", "properties": { "id": 3, "localidad": "Necochea", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.73074505037225, -38.54858638483965 ] } }]
+{ "type": "Feature", "properties": { "id": 1, "nombre": "Olavarría", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -60.31391945578942, -36.89540897828349 ] } },
+{ "type": "Feature", "properties": { "id": 2, "nombre": "Bahía Blanca", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -62.246726900356244, -38.736073431827904 ] } },
+{ "type": "Feature", "properties": { "id": 3, "nombre": "Necochea", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.73074505037225, -38.54858638483965 ] } }]
 }
