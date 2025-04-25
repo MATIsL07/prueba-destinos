@@ -5,5 +5,12 @@
 "features": [
 { "type": "Feature", "properties": { "id": 1, "nombre": "Olavarría", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -60.31391945578942, -36.89540897828349 ] } },
 { "type": "Feature", "properties": { "id": 2, "nombre": "Bahía Blanca", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -62.246726900356244, -38.736073431827904 ] } },
-{ "type": "Feature", "properties": { "id": 3, "nombre": "Necochea", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.73074505037225, -38.54858638483965 ] } }]
+{ "type": "Feature", "properties": { "id": 3, "nombre": "Punta Alta", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -62.070887436513814, -38.87709052971732 ] } },
+{ "type": "Feature", "properties": { "id": 4, "nombre": "Carmen de Patagones", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -62.97653783432733, -40.80120556225064 ] } },
+{ "type": "Feature", "properties": { "id": 5, "nombre": "Mayor Buratovich", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -62.597099099287405, -39.2594735186246 ] } },
+{ "type": "Feature", "properties": { "id": 6, "nombre": "Hilario Ascasubi", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -62.63007601071181, -39.38976331182436 ] } },
+{ "type": "Feature", "properties": { "id": 7, "nombre": "Pedro Luro", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -62.67466471435345, -39.51427503549727  ] } },
+{ "type": "Feature", "properties": { "id": 8, "nombre": "Villalonga", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -62.663242746948036, -39.890340013210164  ] } },
+{ "type": "Feature", "properties": { "id": 9, "nombre": "Stroeder", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -62.65522244782166, -40.16967023756595 ] } },
+{ "type": "Feature", "properties": { "id": 10, "nombre": "Necochea", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.73074505037225, -38.54858638483965 ] } }]
 }
