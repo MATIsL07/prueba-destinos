@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "Plusmar",
+"name": "Localidades",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
 "features": [
 { "type": "Feature", "properties": { "id": 1, "nombre": "Olavarría", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -60.31391945578942, -36.89540897828349 ] } },
@@ -15,5 +15,11 @@
 { "type": "Feature", "properties": { "id": 10, "nombre": "Retiro", "empresa": ["Plusmar","Ceferino", "Tony Tur"] }, "geometry": { "type": "Point", "coordinates": [ -58.37407590810985, -34.586073139329216 ] } },
 { "type": "Feature", "properties": { "id": 11, "nombre": "Viedma", "empresa": "Ceferino" }, "geometry": { "type": "Point", "coordinates": [ -63.004056866850696, -40.820561914629074] } },
 { "type": "Feature", "properties": { "id": 12, "nombre": "Mar del Plata", "empresa": "Tony Tur" }, "geometry": { "type": "Point", "coordinates": [ -57.56378039770705, -37.98846468842799] } },
-{ "type": "Feature", "properties": { "id": 13, "nombre": "Necochea", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.73074505037225, -38.54858638483965 ] } }]
+{ "type": "Feature", "properties": { "id": 13, "nombre": "Punta Alta", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -62.07100500288188, -38.87709189060945 ] } },
+{ "type": "Feature", "properties": { "id": 14, "nombre": "Coronel Dorrego", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -61.28641706292555, -38.720678061623275 ] } },
+{ "type": "Feature", "properties": { "id": 15, "nombre": "Tres Arroyos", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -60.28599941204388,  -38.36850138452735 ] } },
+{ "type": "Feature", "properties": { "id": 16, "nombre": "Miramar", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -57.84268163406153, -38.2629920571706 ] } },
+{ "type": "Feature", "properties": { "id": 17, "nombre": "Chapadmalal", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -57.68771836789982, -38.20223922563973 ] } },
+{ "type": "Feature", "properties": { "id": 18, "nombre": "Punta Mogotes", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -57.54760777729907, -38.0662377246393 ] } },
+{ "type": "Feature", "properties": { "id": 19, "nombre": "Necochea", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.73074505037225, -38.54858638483965 ] } }]
 }
