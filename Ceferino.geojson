@@ -3,8 +3,8 @@
 "name": "Ceferino",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 1, "Localidad": "Retiro", "Empresa": "Ceferino" }, "geometry": { "type": "Point", "coordinates": [ -6498105.113955231383443, -4107884.982728912495077 ] } },
-{ "type": "Feature", "properties": { "id": 2, "Localidad": "Bahía Blanca", "Empresa": "Ceferino" }, "geometry": { "type": "Point", "coordinates": [ -6929271.410895647481084, -4683906.972939671948552 ] } },
-{ "type": "Feature", "properties": { "id": 3, "Localidad": "Viedma", "Empresa": "Ceferino" }, "geometry": { "type": "Point", "coordinates": [ -7013573.859933114610612, -4985899.279799638316035 ] } }
+{ "type": "Feature", "properties": { "id": 1, "Localidad": "Retiro", "Empresa": "Ceferino" }, "geometry": { "type": "Point", "coordinates": [ -34.586621548720736, -58.37426040015945 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Localidad": "Bahía Blanca", "Empresa": "Ceferino" }, "geometry": { "type": "Point", "coordinates": [ -38.736073431827904, -62.246726900356244 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Localidad": "Viedma", "Empresa": "Ceferino" }, "geometry": { "type": "Point", "coordinates": [ -40.82055927887161, -63.00403508351779 ] } }
 ]
 }
