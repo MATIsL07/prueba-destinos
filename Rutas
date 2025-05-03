@@ -5,12 +5,17 @@
       {
         "id": "bahia_blanca_mar_del_plata",
         "ciudades_intermedias": ["Bahía Blanca", "Punta Alta", "Coronel Dorrego", "Tres Arroyos", "Necochea", "Miramar", "Chapadmalal", "Punta Mogotes", "Mar del Plata"],
-        "empresas": ["Plusmar", "Null"]
+        "empresas": ["Plusmar"]
+      },
+ {
+        "id": "bahia_blanca_retiro",
+        "ciudades_intermedias": ["Viedma", "Bahía Blanca", "Retiro"],
+        "empresas": ["Ceferino"]
       },
       {
         "id": "bahia_blanca_retiro",
         "ciudades_intermedias": ["Bahía Blanca", "Retiro"],
-        "empresas": ["Plusmar", "Null"]
+        "empresas": ["Plusmar"]
       }
     ]
   }
