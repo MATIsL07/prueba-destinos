@@ -1,83 +1,223 @@
 [
-  {
-    "empresa": "plusmar",
-    "rutas": [
-      {
-        "id": "bahia_blanca_mar_del_plata",
-        "ciudades_intermedias": ["Bahía Blanca", "Punta Alta", "Coronel Dorrego", "Tres Arroyos", "Necochea", "Miramar", "Chapadmalal", "Punta Mogotes", "Mar del Plata"],
-        "empresas": ["Plusmar"]
-      },
-{
-        "id": "retiro_mar_del_plata",
-        "ciudades_intermedias": ["Dellepiane", "Liniers", "Retiro", "Mar del Plata", "Punta Mogotes", "Chapadmalal", "Miramar"],
-        "empresas": ["Plusmar"]
-      },
-{
-        "id": "retiro_bahia_blanca_dos",
-        "ciudades_intermedias": ["Retiro", "Dellepiane", "Liniers", "Ezeiza", "Azul", "Tres Arroyos", "Punta Alta", "Bahía Blanca"],
-        "empresas": ["Plusmar"]
-      },
-{
-        "id": "retiro_tandil",
-        "ciudades_intermedias": ["Retiro", "Liniers", "San Miguel del Monte", "Las Flores", "Rauch", "Tandil", "Lobería", "Necochea"],
-        "empresas": ["Plusmar"]
-      },
-{
-        "id": "retiro_villa_gesell",
-        "ciudades_intermedias": ["Dellepiane", "Liniers", "Retiro", "Pinamar", "Villa Gesell"],
-        "empresas": ["Plusmar"]
-      },
-{
-        "id": "retiro_olavarria",
-        "ciudades_intermedias": ["Retiro", "Liniers", "Azul", "Olavarría"],
-        "empresas": ["Plusmar"]
-      },
-{
-        "id": "retiro_bahia_blanca_CRNELP",
-        "ciudades_intermedias": ["Retiro", "Liniers", "Coronel Pringles", "Punta Alta", "Bahía Blanca"],
-        "empresas": ["Plusmar"]
-      },
-{
-        "id": "retiro_monte_hermoso",
-        "ciudades_intermedias": ["Retiro", "Liniers", "Ezeiza", "Benito Juárez", "González Chavez", "Tres Arroyos", "Claromecó", "Coronel Dorrego", "Monte Hermoso"],
-        "empresas": ["Plusmar"]
-      },
-{
-        "id": "retiro_viedma",
-        "ciudades_intermedias": ["Retiro", "Dellepiane", "Liniers", "Bahía Blanca", "Mayor Buratovich", "Hilario Ascasubi", "Pedro Luro", "Villalonga", "Stroeder", "Carmen de Patagones", "Viedma"],
-        "empresas": ["Plusmar"]
-      },
-{
-        "id": "bahia_blanca_la_plata",
-        "ciudades_intermedias": ["Bahía Blanca", "Tres Arroyos", "La Plata"],
-        "empresas": ["Plusmar"]
-      },
-{
-        "id": "dellepiane_necochea",
-        "ciudades_intermedias": ["Dellepiane", "Liniers", "Retiro", "Balcarce", "Necochea"],
-        "empresas": ["Plusmar"]
-      },
-{
-        "id": "dellepiane_mar_de_ajo",
-        "ciudades_intermedias": ["Dellepiane", "Liniers", "Retiro", "San Clemente del Tuyú", "Las Toninas", "Santa Teresita", "Mar del Tuyú", "Lucila del Mar", "San Bernardo", "Mar de Ajó"],
-        "empresas": ["Plusmar"]
-      },
- {
-        "id": "bahia_blanca_retiro",
-        "ciudades_intermedias": ["Viedma", "Bahía Blanca", "Retiro"],
-        "empresas": ["Ceferino"]
-      },
-{
-        "id": "dellepiane_villa_gesell",
-        "ciudades_intermedias": ["Dellepiane", "Liniers", "Retiro", "Quilmes", "General Juan Madariaga", "Pinamar", "Villa Gesell"],
-        "empresas": ["Plusmar"]
-      },
- {
-        "id": "bahia_blanca_retiro",
-        "ciudades_intermedias": ["Bahía Blanca", "Retiro"],
-        "empresas": ["Plusmar"]
-      }
-    ]
-  }
+    {
+        "empresa": "plusmar",
+        "rutas": [
+            {
+                "id": "bahia_blanca_mar_del_plata",
+                "ciudades_intermedias": [
+                    "Bahía Blanca",
+                    "Punta Alta",
+                    "Coronel Dorrego",
+                    "Tres Arroyos",
+                    "Necochea",
+                    "Miramar",
+                    "Chapadmalal",
+                    "Punta Mogotes",
+                    "Mar del Plata"
+                ],
+                "empresas": [
+                    "Plusmar"
+                ]
+            },
+            {
+                "id": "retiro_mar_del_plata",
+                "ciudades_intermedias": [
+                    "Dellepiane",
+                    "Liniers",
+                    "Retiro",
+                    "Mar del Plata",
+                    "Punta Mogotes",
+                    "Chapadmalal",
+                    "Miramar"
+                ],
+                "empresas": [
+                    "Plusmar"
+                ]
+            },
+            {
+                "id": "retiro_bahia_blanca_dos",
+                "ciudades_intermedias": [
+                    "Retiro",
+                    "Dellepiane",
+                    "Liniers",
+                    "Ezeiza",
+                    "Azul",
+                    "Tres Arroyos",
+                    "Punta Alta",
+                    "Bahía Blanca"
+                ],
+                "empresas": [
+                    "Plusmar"
+                ]
+            },
+            {
+                "id": "retiro_tandil",
+                "ciudades_intermedias": [
+                    "Retiro",
+                    "Liniers",
+                    "San Miguel del Monte",
+                    "Las Flores",
+                    "Rauch",
+                    "Tandil",
+                    "Lobería",
+                    "Necochea"
+                ],
+                "empresas": [
+                    "Plusmar"
+                ]
+            },
+            {
+                "id": "retiro_villa_gesell",
+                "ciudades_intermedias": [
+                    "Dellepiane",
+                    "Liniers",
+                    "Retiro",
+                    "Pinamar",
+                    "Villa Gesell"
+                ],
+                "empresas": [
+                    "Plusmar"
+                ]
+            },
+            {
+                "id": "retiro_olavarria",
+                "ciudades_intermedias": [
+                    "Retiro",
+                    "Liniers",
+                    "Azul",
+                    "Olavarría"
+                ],
+                "empresas": [
+                    "Plusmar"
+                ]
+            },
+            {
+                "id": "retiro_bahia_blanca_CRNELP",
+                "ciudades_intermedias": [
+                    "Retiro",
+                    "Liniers",
+                    "Coronel Pringles",
+                    "Punta Alta",
+                    "Bahía Blanca"
+                ],
+                "empresas": [
+                    "Plusmar"
+                ]
+            },
+            {
+                "id": "retiro_monte_hermoso",
+                "ciudades_intermedias": [
+                    "Retiro",
+                    "Liniers",
+                    "Ezeiza",
+                    "Benito Juárez",
+                    "González Chavez",
+                    "Tres Arroyos",
+                    "Claromecó",
+                    "Coronel Dorrego",
+                    "Monte Hermoso"
+                ],
+                "empresas": [
+                    "Plusmar"
+                ]
+            },
+            {
+                "id": "retiro_viedma",
+                "ciudades_intermedias": [
+                    "Retiro",
+                    "Dellepiane",
+                    "Liniers",
+                    "Bahía Blanca",
+                    "Mayor Buratovich",
+                    "Hilario Ascasubi",
+                    "Pedro Luro",
+                    "Villalonga",
+                    "Stroeder",
+                    "Carmen de Patagones",
+                    "Viedma"
+                ],
+                "empresas": [
+                    "Plusmar"
+                ]
+            },
+            {
+                "id": "bahia_blanca_la_plata",
+                "ciudades_intermedias": [
+                    "Bahía Blanca",
+                    "Tres Arroyos",
+                    "La Plata"
+                ],
+                "empresas": [
+                    "Plusmar"
+                ]
+            },
+            {
+                "id": "dellepiane_necochea",
+                "ciudades_intermedias": [
+                    "Dellepiane",
+                    "Liniers",
+                    "Retiro",
+                    "Balcarce",
+                    "Necochea"
+                ],
+                "empresas": [
+                    "Plusmar"
+                ]
+            },
+            {
+                "id": "dellepiane_mar_de_ajo",
+                "ciudades_intermedias": [
+                    "Dellepiane",
+                    "Liniers",
+                    "Retiro",
+                    "San Clemente del Tuyú",
+                    "Las Toninas",
+                    "Santa Teresita",
+                    "Mar del Tuyú",
+                    "Lucila del Mar",
+                    "San Bernardo",
+                    "Mar de Ajó"
+                ],
+                "empresas": [
+                    "Plusmar"
+                ]
+            },
+            {
+                "id": "bahia_blanca_retiro",
+                "ciudades_intermedias": [
+                    "Viedma",
+                    "Bahía Blanca",
+                    "Retiro"
+                ],
+                "empresas": [
+                    "Ceferino"
+                ]
+            },
+            {
+                "id": "dellepiane_villa_gesell",
+                "ciudades_intermedias": [
+                    "Dellepiane",
+                    "Liniers",
+                    "Retiro",
+                    "Quilmes",
+                    "General Juan Madariaga",
+                    "Pinamar",
+                    "Villa Gesell"
+                ],
+                "empresas": [
+                    "Plusmar"
+                ]
+            },
+            {
+                "id": "bahia_blanca_retiro",
+                "ciudades_intermedias": [
+                    "Bahía Blanca",
+                    "Retiro"
+                ],
+                "empresas": [
+                    "Plusmar"
+                ]
+            }
+        ]
+    }
 ]
-
