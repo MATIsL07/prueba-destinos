@@ -19,13 +19,13 @@
     {
         "id": "retiro_mar_del_plata",
         "ciudades_intermedias": [
-            "dellepiane",
-            "liniers",
-            "retiro",
-            "mar del plata",
-            "punta mogotes",
-            "chapadmalal",
-            "miramar"
+            "Dellepiane",
+            "Liniers",
+            "Retiro",
+            "Mar del Plata",
+            "Punta Mogotes",
+            "Chapadmalal",
+            "Miramar"
         ],
         "empresas": [
             "Plusmar"
@@ -34,14 +34,14 @@
     {
         "id": "retiro_tandil",
         "ciudades_intermedias": [
-            "retiro",
-            "liniers",
-            "san miguel del monte",
-            "las flores",
-            "rauch",
-            "tandil",
-            "loberia",
-            "necochea"
+            "Retiro",
+            "Liniers",
+            "San Miguel del Monte",
+            "Las Flores",
+            "Rauch",
+            "Tandil",
+            "Loberia",
+            "Necochea"
         ],
         "empresas": [
             "Plusmar"
@@ -50,14 +50,14 @@
     {
         "id": "retiro_bahia_blanca_dos",
         "ciudades_intermedias": [
-            "retiro",
-            "dellepiane",
-            "liniers",
-            "ezeiza",
-            "azul",
-            "tres arroyos",
-            "punta alta",
-            "bahia blanca"
+            "Retiro",
+            "Dellepiane",
+            "Liniers",
+            "Ezeiza",
+            "Azul",
+            "Tres Arroyos",
+            "Punta Alta",
+            "Bahía Blanca"
         ],
         "empresas": [
             "Plusmar"
@@ -121,17 +121,17 @@
     {
         "id": "retiro_viedma",
         "ciudades_intermedias": [
-            "retiro",
-            "dellepiane",
-            "liniers",
-            "bahia blanca",
-            "mayor buratovich",
-            "hilario ascasubi",
-            "pedro luro",
-            "villalonga",
-            "stroeder",
-            "carmen de patagones",
-            "viedma"
+            "Retiro",
+            "Dellepiane",
+            "Liniers",
+            "Bahía Blanca",
+            "Mayor Buratovich",
+            "Hilario Ascasubi",
+            "Pedro Luro",
+            "Villalonga",
+            "Stroeder",
+            "Carmen de Patagones",
+            "Viedma"
         ],
         "empresas": [
             "Plusmar"
