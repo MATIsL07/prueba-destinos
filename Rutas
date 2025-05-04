@@ -22,13 +22,13 @@
             {
                 "id": "retiro_mar_del_plata",
                 "ciudades_intermedias": [
-                    "Dellepiane",
-                    "Liniers",
-                    "Retiro",
-                    "Mar del Plata",
-                    "Punta Mogotes",
-                    "Chapadmalal",
-                    "Miramar"
+                    "dellepiane",
+                    "liniers",
+                    "retiro",
+                    "mar del plata",
+                    "punta mogotes",
+                    "chapadmalal",
+                    "miramar"
                 ],
                 "empresas": [
                     "Plusmar"
@@ -37,14 +37,14 @@
             {
                 "id": "retiro_bahia_blanca_dos",
                 "ciudades_intermedias": [
-                    "Retiro",
-                    "Dellepiane",
-                    "Liniers",
-                    "Ezeiza",
-                    "Azul",
-                    "Tres Arroyos",
-                    "Punta Alta",
-                    "Bahía Blanca"
+                    "retiro",
+                    "dellepiane",
+                    "liniers",
+                    "ezeiza",
+                    "azul",
+                    "tres arroyos",
+                    "punta alta",
+                    "bahia blanca"
                 ],
                 "empresas": [
                     "Plusmar"
@@ -108,17 +108,17 @@
             {
                 "id": "retiro_viedma",
                 "ciudades_intermedias": [
-                    "Retiro",
-                    "Dellepiane",
-                    "Liniers",
-                    "Bahía Blanca",
-                    "Mayor Buratovich",
-                    "Hilario Ascasubi",
-                    "Pedro Luro",
-                    "Villalonga",
-                    "Stroeder",
-                    "Carmen de Patagones",
-                    "Viedma"
+                    "retiro",
+                    "dellepiane",
+                    "liniers",
+                    "bahia blanca",
+                    "mayor buratovich",
+                    "hilario ascasubi",
+                    "pedro luro",
+                    "villalonga",
+                    "stroeder",
+                    "carmen de patagones",
+                    "viedma"
                 ],
                 "empresas": [
                     "Plusmar"
@@ -169,9 +169,9 @@
             {
                 "id": "bahia_blanca_retiro",
                 "ciudades_intermedias": [
-                    "Viedma",
-                    "Bahía Blanca",
-                    "Retiro"
+                    "viedma",
+                    "bahia blanca",
+                    "retiro"
                 ],
                 "empresas": [
                     "Ceferino"
