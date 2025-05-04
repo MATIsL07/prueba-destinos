@@ -51,22 +51,6 @@
                 ]
             },
             {
-                "id": "retiro_tandil",
-                "ciudades_intermedias": [
-                    "Retiro",
-                    "Liniers",
-                    "San Miguel del Monte",
-                    "Las Flores",
-                    "Rauch",
-                    "Tandil",
-                    "Lobería",
-                    "Necochea"
-                ],
-                "empresas": [
-                    "Plusmar"
-                ]
-            },
-            {
                 "id": "retiro_villa_gesell",
                 "ciudades_intermedias": [
                     "Dellepiane",
