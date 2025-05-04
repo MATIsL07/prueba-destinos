@@ -35,6 +35,22 @@
                 ]
             },
             {
+                "id": "retiro_tandil",
+                "ciudades_intermedias": [
+                    "retiro",
+                    "liniers",
+                    "san miguel del monte",
+                    "las flores",
+                    "rauch",
+                    "tandil",
+                    "loberia",
+                    "necochea"
+                ],
+                "empresas": [
+                    "Plusmar"
+                ]
+            },
+            {
                 "id": "retiro_bahia_blanca_dos",
                 "ciudades_intermedias": [
                     "retiro",
