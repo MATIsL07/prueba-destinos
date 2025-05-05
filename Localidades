@@ -93,6 +93,8 @@
 { "type": "Feature", "properties": { "id": 88, "nombre": "Puerto Madryn", "provincia": "Chubut", "empresa": "Cóndor Estrella" }, "geometry": { "type": "Point", "coordinates": [ -65.04115833274422, -42.76521655128586 ] } },
 { "type": "Feature", "properties": { "id": 89, "nombre": "Trelew", "provincia": "Chubut", "empresa": "Cóndor Estrella" }, "geometry": { "type": "Point", "coordinates": [ -65.30294484666955, -43.24847370644709 ] } },
 { "type": "Feature", "properties": { "id": 90, "nombre": "Rawson", "provincia": "Chubut", "empresa": "Cóndor Estrella" }, "geometry": { "type": "Point", "coordinates": [ -65.09747050692502, -43.303989050302214 ] } },
-{ "type": "Feature", "properties": { "id": 91, "nombre": "Comodoro Rivadavia", "provincia": "Buenos Aires", "empresa": "Cóndor Estrella" }, "geometry": { "type": "Point", "coordinates": [ -67.48073923740684, -45.86330168089271 ] } },
+{ "type": "Feature", "properties": { "id": 91, "nombre": "Comodoro Rivadavia", "provincia": "Chubut", "empresa": "Cóndor Estrella" }, "geometry": { "type": "Point", "coordinates": [ -67.48073923740684, -45.86330168089271 ] } },
+{ "type": "Feature", "properties": { "id": 92, "nombre": "Acceso General Conesa", "provincia": "Buenos Aires", "empresa": "Cóndor Estrella" }, "geometry": { "type": "Point", "coordinates": [ -57.30802535876456, -36.500212974905 ] } },
+{ "type": "Feature", "properties": { "id": 92, "nombre": "Acceso General Lavalle", "provincia": "Buenos Aires", "empresa": "Cóndor Estrella" }, "geometry": { "type": "Point", "coordinates": [ -56.916170221729985, -36.430208399669816 ] } },
 { "type": "Feature", "properties": { "id": 92, "nombre": "Necochea", "provincia": "Buenos Aires", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.73074505037225, -38.54858638483965 ] } }]
 }
