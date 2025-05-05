@@ -165,7 +165,7 @@
 { "type": "Feature", "properties": { "id": 160, "nombre": "Winifreda", "provincia": "La Pampa", "empresa": "a" }, "geometry": { "type": "Point", "coordinates": [ -64.23440139858597, -36.2282456507396 ] } },
 { "type": "Feature", "properties": { "id": 161, "nombre": "Cañuelas", "provincia": "Buenos Aires", "empresa": "a" }, "geometry": { "type": "Point", "coordinates": [ -58.75442483754349, -35.05875972145494 ] } },
 { "type": "Feature", "properties": { "id": 162, "nombre": "Florencio Varela", "provincia": "Buenos Aires", "empresa": "a" }, "geometry": { "type": "Point", "coordinates": [ -58.26172327440943, -34.7800157722692 ] } },
-{ "type": "Feature", "properties": { "id": 163, "nombre": "Morón", "provincia": "Buenos Aires", "empresa": "a" }, "geometry": { "type": "Point", "coordinates": [ -58.61000357270306l, -34.64803191678891 ] } },
+{ "type": "Feature", "properties": { "id": 163, "nombre": "Morón", "provincia": "Buenos Aires", "empresa": "a" }, "geometry": { "type": "Point", "coordinates": [ -58.61000357270306, -34.64803191678891 ] } },
 { "type": "Feature", "properties": { "id": 164, "nombre": "Mercedes", "provincia": "Buenos Aires", "empresa": "a" }, "geometry": { "type": "Point", "coordinates": [ -59.43786577524946, -34.66126579176702 ] } },
 { "type": "Feature", "properties": { "id": 165, "nombre": "Suipacha", "provincia": "Buenos Aires", "empresa": "a" }, "geometry": { "type": "Point", "coordinates": [ -59.677431620482785, -34.78111860343359 ] } },
 { "type": "Feature", "properties": { "id": 166, "nombre": "Chivilcoy", "provincia": "Buenos Aires", "empresa": "a" }, "geometry": { "type": "Point", "coordinates": [ -60.01236485494572, -34.88851883568197 ] } },
