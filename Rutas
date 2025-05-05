@@ -405,6 +405,28 @@
         ]
     },
     {
+        "id": "retiro_mar_de_ajo_condor",
+        "ciudades_intermedias": [
+            "Retiro",
+            "Chascomús",
+            "Lezama",
+            "Castelli",
+            "Dolores",
+            "Acceso General Conesa",
+            "Acceso General Lavalle",
+            "San Clemente del Tuyú",
+            "Las Toninas",
+            "Santa Teresita",
+            "Mar del Tuyú",
+            "Lucila del Mar",
+            "San Bernardo",
+            "Mar de Ajó"
+        ],
+        "empresas": [
+            "Cóndor Estrella"
+        ]
+    },
+    {
         "id": "bahia_blanca_retiro",
         "ciudades_intermedias": [
             "Bahía Blanca",
