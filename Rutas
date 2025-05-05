@@ -539,6 +539,650 @@
         ]
     },
     {
+        "id": "la_plata_comodoro_rivadavia",
+        "ciudades_intermedias": [
+            "La Plata",
+            "Florencio Varela",
+            "Dellepiane",
+            "Liniers",
+            "Ezeiza",
+            "Cañuelas",
+            "San Miguel del Monte",
+            "Azul",
+            "Olavarría",
+            "Coronel Pringles",
+            "Bahía Blanca",
+            "Pedro Luro",
+            "Viedma",
+            "San Antonio Oeste",
+            "Las Grutas",
+            "Sierra Grande",
+            "Puerto Madryn",
+            "Trelew",
+            "Acceso Camarones",
+            "Garayalde",
+            "Comodoro Rivadavia"
+        ],
+        "empresas": [
+            "Vía Tac"
+        ]
+    },
+    {
+        "id": "mar_del_plata_comodoro_rivadavia",
+        "ciudades_intermedias": [
+            "Mar del Plata",
+            "Miramar",
+            "Necochea",
+            "Tres Arroyos",
+            "Bahía Blanca",
+            "Viedma",
+            "San Antonio Oeste",
+            "Las Grutas",
+            "Sierra Grande",
+            "Puerto Madryn",
+            "Trelew",
+            "Rawson",
+            "Acceso Camarones",
+            "Garayalde",
+            "Comodoro Rivadavia"
+        ],
+        "empresas": [
+            "Vía Tac"
+        ]
+    },
+    {
+        "id": "bariloche_retiro",
+        "ciudades_intermedias": [
+            "San Carlos de Bariloche",
+            "Dina Huapi",
+            "Piedra del Águila",
+            "Picun Leufú",
+            "El Chocón",
+            "Senillosa",
+            "Plottier",
+            "Neuquén",
+            "Cipolletti",
+            "Allen",
+            "General Roca",
+            "Ingeniero Luis A. Huergo",
+            "Villa Regina",
+            "Chichinales",
+            "Chimpay",
+            "Choele Choel",
+            "Río Colorado",
+            "Algarrobo",
+            "Médanos",
+            "Bahía Blanca",
+            "Coronel Dorrego",
+            "Tres Arroyos",
+            "Adolfo González Chaves",
+            "Benito Juárez",
+            "Chillar",
+            "Azul",
+            "Las Flores",
+            "San Miguel del Monte",
+            "Cañuelas",
+            "Ezeiza",
+            "Liniers",
+            "Dellepiane",
+            "Retiro"
+        ],
+        "empresas": [
+            "Vía Bariloche"
+        ]
+    },
+    {
+        "id": "punta_alta_bariloche",
+        "ciudades_intermedias": [
+            "Punta Alta",
+            "Bahía Blanca",
+            "Médanos",
+            "Algarrobo",
+            "Río Colorado",
+            "Choele Choel",
+            "Darwin",
+            "Coronel Belisle",
+            "Chimpay",
+            "Chelforó",
+            "Chichinales",
+            "Villa Regina",
+            "Ingeniero Luis A. Huergo",
+            "General Roca",
+            "Allen",
+            "Cipolletti",
+            "Neuquén",
+            "Plottier",
+            "Senillosa",
+            "El Chocón",
+            "Picun Leufú",
+            "Piedra del Águila",
+            "San Carlos de Bariloche"
+        ],
+        "empresas": [
+            "Vía Bariloche"
+        ]
+    },
+    {
+        "id": "mar_del_plata_bariloche",
+        "ciudades_intermedias": [
+            "Mar del Plata",
+            "Miramar",
+            "Necochea",
+            "Tres Arroyos",
+            "Bahía Blanca",
+            "Médanos",
+            "Río Colorado",
+            "Choele Choel",
+            "Chimpay",
+            "Villa Regina",
+            "Ingeniero Luis A. Huergo",
+            "General Roca",
+            "Allen",
+            "Cipolletti",
+            "Neuquén",
+            "Plottier",
+            "Senillosa",
+            "Picun Leufú",
+            "Piedra del Águila",
+            "San Carlos de Bariloche"
+        ],
+        "empresas": [
+            "Vía Bariloche"
+        ]
+    },
+    {
+        "id": "retiro_san_martin_de_los_andes",
+        "ciudades_intermedias": [
+            "Retiro",
+            "Dellepiane",
+            "Liniers",
+            "Morón",
+            "Moreno",
+            "Luján",
+            "Mercedes",
+            "Suipacha",
+            "Chivilcoy",
+            "Alberti",
+            "Bragado",
+            "9 de Julio",
+            "Carlos casares",
+            "Pehuajó",
+            "Trenque Lauquen",
+            "Pellegrini",
+            "Catriló",
+            "Santa Rosa",
+            "General Acha",
+            "25 de Mayo",
+            "Catriel",
+            "Sargento Vidal",
+            "Barda del Medio",
+            "Cinco Saltos",
+            "Cipolletti",
+            "Neuquén",
+            "Plottier",
+            "Cutral Co",
+            "Zapala",
+            "Junín de los Andes",
+            "San Martín de los Andes"
+        ],
+        "empresas": [
+            "Vía Bariloche"
+        ]
+    },
+    {
+        "id": "retiro_san_martin_de_los_andes_rutamar",
+        "ciudades_intermedias": [
+            "Retiro",
+            "Dellepiane",
+            "Liniers",
+            "Morón",
+            "Moreno",
+            "Luján",
+            "Mercedes",
+            "Suipacha",
+            "Chivilcoy",
+            "Alberti",
+            "Bragado",
+            "9 de Julio",
+            "Carlos casares",
+            "Pehuajó",
+            "Juan José Paso",
+            "Trenque Lauquen",
+            "Pellegrini",
+            "Catriló",
+            "Macachín",
+            "Santa Rosa",
+            "General Acha",
+            "Puelches",
+            "Casa de Piedra",
+            "25 de Mayo",
+            "Catriel",
+            "Sargento Vidal",
+            "Barda del Medio",
+            "Cinco Saltos",
+            "Cipolletti",
+            "Neuquén",
+            "Plottier",
+            "Cutral Co",
+            "Zapala",
+            "Junín de los Andes",
+            "San Martín de los Andes"
+        ],
+        "empresas": [
+            "Rutamar"
+        ]
+    },
+    {
+        "id": "neuquen_san_martin_de_los_andes",
+        "ciudades_intermedias": [
+            "Neuquén",
+            "Plottier",
+            "Senillosa",
+            "Arroyito",
+            "Plaza Huincul",
+            "Cutral Co",
+            "Zapala",
+            "Las Cortaderas",
+            "Acceso Las Coloradas",
+            "Junín de los Andes",
+            "San Martín de los Andes",
+        ],
+        "empresas": [
+            "Albus"
+        ]
+    },
+    {
+        "id": "neuquen_villa_pehuenia",
+        "ciudades_intermedias": [
+            "Neuquén",
+            "Plottier",
+            "Senillosa",
+            "Arroyito",
+            "Plaza Huincul",
+            "Cutral Co",
+            "Zapala",
+            "Aluminé",
+            "Villa Pehuenia",
+        ],
+        "empresas": [
+            "Albus"
+        ]
+    },
+    {
+        "id": "jujuy_esquel",
+        "ciudades_intermedias": [
+            "San Salvador de Jujuy",
+            "Palpalá",
+            "Perico",
+            "General Güemes",
+            "Salta",
+            "San José de Metán",
+            "Rosario de la Frontera",
+            "Villa de Trancas",
+            "San Miguel de Tucumán",
+            "Termas de Río Hondo",
+            "Santiago del Estero",
+            "Loreto",
+            "Villa Ojo de Agua",
+            "San José de la Dormida",
+            "Jesús María",
+            "Córdoba",
+            "Almafuerte",
+            "Berrotarán",
+            "Río Cuarto",
+            "Vicuña Mackenna",
+            "Huinca Renancó",
+            "Realicó",
+            "Eduardo Castex",
+            "Winifreda",
+            "Santa Rosa",
+            "General Acha",
+            "Chacharramendi",
+            "La Reforma",
+            "25 de Mayo",
+            "Catriel",
+            "Sargento Vidal",
+            "Barda del Medio",
+            "Cinco Saltos",
+            "Cipolletti",
+            "Neuquén",
+            "Plottier",
+            "Senillosa",
+            "El Chocón",
+            "Picun Leufú",
+            "Piedra del Águila",
+            "San Carlos de Bariloche",
+            "El Bolsón",
+            "Lago Puelo",
+            "El Hoyo",
+            "Esquel"
+        ],
+        "empresas": [
+            "Don Otto"
+        ]
+    },
+    {
+        "id": "lago_puelo_bariloche",
+        "ciudades_intermedias": [
+            "Lago Puelo",
+            "El Bolsón",
+            "El Foyel",
+            "Río Villegas",
+            "Villa Mascardi",
+            "Villa Los Coihues",
+            "San Carlos de Bariloche"
+        ],
+        "empresas": [
+            "Vía Bariloche"
+        ]
+    },
+    {
+        "id": "bariloche_puerto_madryn",
+        "ciudades_intermedias": [
+            "San Carlos de Bariloche",
+            "El Bolsón",
+            "Lago Puelo",
+            "El Hoyo",
+            "Epuyén",
+            "Esquel",
+            "Tecka",
+            "Paso de Indios",
+            "Los Altares",
+            "Las Plumas",
+            "Dolavon",
+            "Gaiman",
+            "Trelew",
+            "Rawson",
+            "Puerto Madryn"
+        ],
+        "empresas": [
+            "Vía Bariloche"
+        ]
+    },
+    {
+        "id": "comodoro_rivadavia_bariloche",
+        "ciudades_intermedias": [
+            "San Carlos de Bariloche",
+            "Sarmiento",
+            "José de San Martín",
+            "Gobernador Costa",
+            "Tecka",
+            "Esquel",
+            "Epuyén",
+            "El Hoyo",
+            "Lago Puelo",
+            "El Bolsón",
+            "San Carlos de Bariloche"
+        ],
+        "empresas": [
+            "Don Otto"
+        ]
+    },
+    {
+        "id": "bariloche_villa_la_angostura",
+        "ciudades_intermedias": [
+            "San Carlos de Bariloche",
+            "Dina Huapi",
+            "Villa La Angostura"
+        ],
+        "empresas": [
+            "Albus"
+        ]
+    },
+    {
+        "id": "bahia_blanca_la_plata_por_tandil",
+        "ciudades_intermedias": [
+            "Bahía Blanca",
+            "Punta Alta",
+            "Coronel Dorrego",
+            "José A. Guisasola",
+            "Aparicio",
+            "Irene",
+            "Micaela Cascallares",
+            "Tres Arroyos",
+            "Adolfo González Chaves",
+            "Benito Juárez",
+            "Tandil",
+            "Ayacucho",
+            "Solanet",
+            "Udaquiola",
+            "Casalins",
+            "General Belgrano",
+            "Jeppener",
+            "Coronel Brandsen",
+            "La Plata"
+        ],
+        "empresas": [
+            "Tigre Iguazú"
+        ]
+    },
+    {
+        "id": "bolivar_mar_del_plata",
+        "ciudades_intermedias": [
+            "San Carlos de Bolivar",
+            "Olavarría",
+            "Azul",
+            "Tandil",
+            "Napaleoufú",
+            "Balcarce",
+            "La Peregrina",
+            "Mar del Plata"
+        ],
+        "empresas": [
+            "Tigre Iguazú"
+        ]
+    },
+    {
+        "id": "miramar_retiro",
+        "ciudades_intermedias": [
+            "Miramar",
+            "Chapadmalal",
+            "Punta Mogotes",
+            "Mar del Plata",
+            "Santa Clara del Mar",
+            "Florencio Varela",
+            "Retiro"
+        ],
+        "empresas": [
+            "Vía Bariloche"
+        ]
+    },
+    {
+        "id": "aeroparque_tandil",
+        "ciudades_intermedias": [
+            "Aeroparque",
+            "Retiro",
+            "Dellepiane",
+            "Liniers",
+            "Ezeiza",
+            "Cañuelas",
+            "San Miguel del Monte",
+            "Acceso Gorchs",
+            "Las Flores",
+            "Rauch",
+            "Tandil"
+        ],
+        "empresas": [
+            "Vía Bariloche"
+        ]
+    },
+    {
+        "id": "miramar_dellepiane",
+        "ciudades_intermedias": [
+            "Miramar",
+            "Chapadmalal",
+            "Mar del Plata",
+            "Santa Clara del Mar",
+            "Retiro",
+            "Aeroparque",
+            "Liniers",
+            "Dellepiane"
+        ],
+        "empresas": [
+            "Rutamar"
+        ]
+    },
+    {
+        "id": "aeroparque_punta_alta",
+        "ciudades_intermedias": [
+            "Aeroparque",
+            "Retiro",
+            "Liniers",
+            "Ezeiza",
+            "Cañuelas",
+            "San Miguel del Monte",
+            "Acceso Gorchs",
+            "Las Flores",
+            "Rauch",
+            "Tandil",
+            "Benito Juárez",
+            "Adolfo González Chaves",
+            "Tres Arroyos",
+            "Coronel Dorrego",
+            "Bahía Blanca",
+            "Punta Alta"
+        ],
+        "empresas": [
+            "Vía Bariloche"
+        ]
+    },
+    {
+        "id": "posadas_mar_del_plata",
+        "ciudades_intermedias": [
+            "Posadas",
+            "San José",
+            "Gobernador Virasoro",
+            "Santo Tomé",
+            "Alvear",
+            "La Cruz",
+            "Paso de los Libres",
+            "Monte Caseros",
+            "Chajarí",
+            "Concordia",
+            "Colón",
+            "Concepción del Uruguay",
+            "Gualeguaychú",
+            "Campana",
+            "General Pacheco",
+            "Retiro",
+            "Pinamar",
+            "Villa Gesell",
+            "Mar Chiquita",
+            "Santa Clara del Mar",
+            "Mar del Plata"
+        ],
+        "empresas": [
+            "Tigre Iguazú"
+        ]
+    },
+    {
+        "id": "general_pacheco_villa_gesell",
+        "ciudades_intermedias": [
+            "General Pacheco",
+            "Moreno",
+            "Liniers",
+            "Retiro",
+            "Florencio Varela",
+            "San Clemente del Tuyú",
+            "Las Toninas",
+            "Santa Teresita",
+            "Mar del Tuyú",
+            "Lucila del Mar",
+            "San Bernardo",
+            "Mar de Ajó",
+            "Pinamar",
+            "Villa Gesell"
+        ],
+        "empresas": [
+            "Vía Bariloche"
+        ]
+    },
+    {
+        "id": "la_plata_necochea_tigre_iguazu",
+        "ciudades_intermedias": [
+            "La Plata",
+            "Coronel Brandsen",
+            "San Miguel del Monte",
+            "Las Flores",
+            "Rauch",
+            "Tandil",
+            "Napaleofú",
+            "San Manuel",
+            "Lobería",
+            "Necochea"
+        ],
+        "empresas": [
+            "Tigre Iguazú"
+        ]
+    },
+    {
+        "id": "mar_del_plata_ayacucho",
+        "ciudades_intermedias": [
+            "Mar del Plata",
+            "La Peregrina",
+            "Balcarce",
+            "Ayacucho"
+        ],
+        "empresas": [
+            "Tigre Iguazú"
+        ]
+    },
+    {
+        "id": "necochea_aeroparque_rutamar",
+        "ciudades_intermedias": [
+            "Necochea",
+            "Balcarce",
+            "Ayacucho",
+            "General Belgrano",
+            "Liniers",
+            "Dellepiane",
+            "Retiro",
+            "Aeroparque"
+        ],
+        "empresas": [
+            "Rutamar"
+        ]
+    },
+    {
+        "id": "mar_del_plata_cordoba_via_tac",
+        "ciudades_intermedias": [
+            "Mar del Plata",
+            "Balcarce",
+            "Tandil",
+            "Azul",
+            "Olavarría",
+            "San Carlos de Bolivar",
+            "Pehuajó",
+            "Carlos Tejedor",
+            "General Villegas",
+            "Rufino",
+            "Laboulaye",
+            "Vicuña Mackenna",
+            "Río Cuarto",
+            "Berrotarán",
+            "Almafuerte",
+            "Alta Gracia",
+            "Córdoba"
+        ],
+        "empresas": [
+            "Vía Tac"
+        ]
+    },
+    {
+        "id": "tandil_villa_gesell",
+        "ciudades_intermedias": [
+            "Tandil",
+            "Ayacucho",
+            "Las Armas",
+            "General Juan Madariaga",
+            "Pinamar",
+            "Villa Gesell"
+        ],
+        "empresas": [
+            "Tigre Iguazú"
+        ]
+    },
+    {
         "id": "bahia_blanca_retiro",
         "ciudades_intermedias": [
             "Bahía Blanca",
