@@ -110,7 +110,6 @@
             "Benito Juárez",
             "González Chavez",
             "Tres Arroyos",
-            "Claromecó",
             "Coronel Dorrego",
             "Monte Hermoso"
         ],
@@ -200,6 +199,20 @@
             "General Juan Madariaga",
             "Pinamar",
             "Villa Gesell"
+        ],
+        "empresas": [
+            "Plusmar"
+        ]
+    },
+    {
+        "id": "retiro_claromeco",
+        "ciudades_intermedias": [
+            "Retiro",
+            "Dellepiane",
+            "Liniers",
+            "Ezeiza",
+            "Tres Arroyos",
+            "Claromecó"
         ],
         "empresas": [
             "Plusmar"
