@@ -25,7 +25,6 @@
 { "type": "Feature", "properties": { "id": 20, "nombre": "San Miguel del Monte", "provincia": "Buenos Aires", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.817281222587, -35.43642489622433 ] } },
 { "type": "Feature", "properties": { "id": 21, "nombre": "Las Flores", "provincia": "Buenos Aires", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -59.10175122243166, -36.017326594753044 ] } },
 { "type": "Feature", "properties": { "id": 22, "nombre": "Rauch", "provincia": "Buenos Aires", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -59.08919876833663, -36.774351389143305 ] } },
-{ "type": "Feature", "properties": { "id": 23, "nombre": "Tandil", "provincia": "Buenos Aires", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -59.11760079017631, -37.32118306320915 ] } },
 { "type": "Feature", "properties": { "id": 24, "nombre": "Coronel Pringles", "provincia": "Buenos Aires", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -61.349528499001515, -37.9910970819401 ] } },
 { "type": "Feature", "properties": { "id": 25, "nombre": "Lobería", "provincia": "Buenos Aires", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.777217071423195, -38.1585243440333 ] } },
 { "type": "Feature", "properties": { "id": 26, "nombre": "Balcarce", "provincia": "Buenos Aires", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.23794457815641, -37.83287444283555 ] } },
