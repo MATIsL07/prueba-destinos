@@ -47,5 +47,5 @@
 { "type": "Feature", "properties": { "id": 42, "nombre": "Ezeiza", "provincia": "Buenos Aires", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.52569114463437, -34.8560916927639 ] } },
 { "type": "Feature", "properties": { "id": 43, "nombre": "Quilmes", "provincia": "Buenos Aires", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.2892176549737, -34.74456075467149 ] } },
 { "type": "Feature", "properties": { "id": 44, "nombre": "La Plata", "provincia": "Buenos Aires", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -57.95461263583272, -34.90563311091107 ] } },
-{ "type": "Feature", "properties": { "id": 45, "nombre": "Necochea", "provincia": "Buenos Aires", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.73074505037225, -38.54858638483965 ] } }]
+{ "type": "Feature", "properties": { "id": 45, "nombre": "Necochea", "provincia": "Buenos Aires", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.73074505037225, -38.54858638483965 ] } }
 }
