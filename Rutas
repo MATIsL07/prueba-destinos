@@ -427,6 +427,118 @@
         ]
     },
     {
+        "id": "bahia_blanca_la_plata",
+        "ciudades_intermedias": [
+            "Bahía Blanca",
+            "Tornquist",
+            "Villa Ventana",
+            "Sierra de la Ventana",
+            "Saldungaray",
+            "Coronel Suárez",
+            "Acceso Líbano",
+            "Laprida",
+            "General La Madrid",
+            "Olavarría",
+            "Sierra Chica",
+            "Hinojos",
+            "Azul",
+            "Cacharí",
+            "Pardo",
+            "Las Flores",
+            "Acceso Gorchs",
+            "San Miguel del Monte",
+            "Gobernador Udaondo",
+            "Loma Verde",
+            "Coronel Brandsen",
+            "Lisandro Olmos",
+            "La Plata"
+        ],
+        "empresas": [
+            "Jetmar"
+        ]
+    },
+    {
+        "id": "bahia_blanca_la_plata_corto",
+        "ciudades_intermedias": [
+            "La Plata",
+            "Lisandro Olmos",
+            "Coronel Brandsen",
+            "San Miguel del Monte",
+            "Las Flores",
+            "Cacharí",
+            "Azul",
+            "Olavarría",
+            "General Lamadrid",
+            "Coronel Pringles",
+            "Punta Alta",
+            "Bahía Blanca"
+        ],
+        "empresas": [
+            "Jetmar"
+        ]
+    },
+    {
+        "id": "la_plata_mar_del_plata",
+        "ciudades_intermedias": [
+            "La Plata",
+            "Mar del Plata",
+            "Punta Mogotes",
+            "Chapadmalal",
+            "Miramar"
+        ],
+        "empresas": [
+            "Jetmar"
+        ]
+    },
+    {
+        "id": "la_plata_mar_del_plata_corto",
+        "ciudades_intermedias": [
+            "La Plata",
+            "Dolores",
+            "Mar del Plata"
+        ],
+        "empresas": [
+            "Jetmar"
+        ]
+    },
+    {
+        "id": "la_plata_bahia_blanca_por_tres_arroyos",
+        "ciudades_intermedias": [
+            "La Plata",
+            "Tres Arroyos",
+            "Punta Alta",
+            "Bahía Blanca"
+        ],
+        "empresas": [
+            "Jetmar"
+        ]
+    },
+    {
+        "id": "la_plata_bahia_blanca_por_monte_hermoso",
+        "ciudades_intermedias": [
+            "La Plata",
+            "Lisandro Olmos",
+            "San Miguel del Monte",
+            "Las Flores",
+            "Cacharí",
+            "Azul",
+            "Chillar",
+            "Benito Juárez",
+            "Adolfo González Chaves",
+            "Tres Arroyos",
+            "Micaela Cascallares",
+            "Aparicio",
+            "José A. Guisasola",
+            "Coronel Dorrego",
+            "Monte Hermoso",
+            "Punta Alta",
+            "Bahía Blanca"
+        ],
+        "empresas": [
+            "Jetmar"
+        ]
+    },
+    {
         "id": "bahia_blanca_retiro",
         "ciudades_intermedias": [
             "Bahía Blanca",
