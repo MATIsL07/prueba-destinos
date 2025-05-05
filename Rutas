@@ -108,7 +108,7 @@
             "Liniers",
             "Ezeiza",
             "Benito Juárez",
-            "González Chavez",
+            "Adolfo González Chaves",
             "Tres Arroyos",
             "Coronel Dorrego",
             "Monte Hermoso"
@@ -181,9 +181,9 @@
     {
         "id": "bahia_blanca_retiro",
         "ciudades_intermedias": [
-            "viedma",
-            "bahia blanca",
-            "retiro"
+            "Viedma",
+            "Bahía Blanca",
+            "Retiro"
         ],
         "empresas": [
             "Ceferino"
@@ -216,6 +216,192 @@
         ],
         "empresas": [
             "Plusmar"
+        ]
+    },
+    {
+        "id": "retiro_necochea_condor",
+        "ciudades_intermedias": [
+            "Retiro",
+            "Dellepiane",
+            "San Miguel del Monte",
+            "Acceso Gorchs",
+            "Las Flores",
+            "Pardo",
+            "Cacharí",
+            "Azul",
+            "Chillar",
+            "Benito Juárez",
+            "Necochea"
+        ],
+        "empresas": [
+            "Cóndor Estrella"
+        ]
+    },
+    {
+        "id": "retiro_puan",
+        "ciudades_intermedias": [
+            "Retiro",
+            "Dellepiane",
+            "Liniers",
+            "Ezeiza",
+            "Azul",
+            "Acceso Líbano",
+            "Coronel Suárez",
+            "Pigüé",
+            "Puan"
+        ],
+        "empresas": [
+            "Cóndor Estrella"
+        ]
+    },
+    {
+        "id": "dellepiane_miramar",
+        "ciudades_intermedias": [
+            "Dellepiane",
+            "Puente Saavedra",
+            "Retiro",
+            "Santa Clara del Mar",
+            "Mar del Plata",
+            "Punta Mogotes",
+            "Chapadmalal",
+            "Miramar"
+        ],
+        "empresas": [
+            "Cóndor Estrella"
+        ]
+    },
+    {
+        "id": "retiro_miramar_largo",
+        "ciudades_intermedias": [
+            "Retiro",
+            "Quilmes",
+            "Chascomús",
+            "Adela",
+            "Monasterio",
+            "Lezama",
+            "Castelli",
+            "Sevigne",
+            "Dolores",
+            "General Guido",
+            "Maipú",
+            "Las Armas",
+            "General Pirán",
+            "Coronel Vidal",
+            "Vivoratá",
+            "Santa Clara del Mar",
+            "Mar del Plata",
+            "Punta Mogotes",
+            "Chapadmalal",
+            "Miramar"
+        ],
+        "empresas": [
+            "Cóndor Estrella"
+        ]
+    },
+    {
+        "id": "retiro_bahia_blanca_largo",
+        "ciudades_intermedias": [
+            "Retiro",
+            "Dellepiane",
+            "Liniers",
+            "Ezeiza",
+            "San Miguel del Monte",
+            "Acceso Las Flores",
+            "Cacharí",
+            "Olavarría",
+            "Coronel Pringles",
+            "Saldungaray",
+            "Sierra de la Ventana",
+            "Villa Ventana",
+            "Tornquist",
+            "Bahía Blanca"
+        ],
+        "empresas": [
+            "Cóndor Estrella"
+        ]
+    },
+    {
+        "id": "retiro_comodoro_rivadavia",
+        "ciudades_intermedias": [
+            "Retiro",
+            "Dellepiane",
+            "Liniers",
+            "San Miguel del Monte",
+            "Acceso Las Flores",
+            "Azul",
+            "Benito Juárez",
+            "Adolfo González Chaves",
+            "Tres Arroyos",
+            "Bahía Blanca",
+            "San Antonio Oeste",
+            "Las Grutas",
+            "Sierra Grande",
+            "Puerto Madryn",
+            "Trelew",
+            "Rawson",
+            "Comodoro Rivadavia"
+        ],
+        "empresas": [
+            "Cóndor Estrella"
+        ]
+    },
+    {
+        "id": "retiro_bahia_blanca_condor",
+        "ciudades_intermedias": [
+            "Dellepiane",
+            "Liniers",
+            "Ezeiza",
+            "San Miguel del Monte",
+            "Acceso Las Flores",
+            "Cacharí",
+            "Azul",
+            "Chillar",
+            "Benito Juárez",
+            "Adolfo González Chaves",
+            "Tres Arroyos",
+            "Coronel Dorrego",
+            "Punta Alta",
+            "Bahía Blanca"
+        ],
+        "empresas": [
+            "Cóndor Estrella"
+        ]
+    },
+    {
+        "id": "retiro_general_pico",
+        "ciudades_intermedias": [
+            "Retiro",
+            "Liniers",
+            "Junín",
+            "General Villegas",
+            "Intendente Alvear",
+            "General Pico"
+        ],
+        "empresas": [
+            "Cóndor Estrella"
+        ]
+    },
+    {
+        "id": "retiro_general_pico_largo",
+        "ciudades_intermedias": [
+            "Retiro",
+            "Liniers",
+            "Moreno",
+            "Luján",
+            "San Andrés de Giles",
+            "Carmen de Areco",
+            "Chacabuco",
+            "Junín",
+            "Lincoln",
+            "General Pinto",
+            "Coronel Granada",
+            "Florentino Ameghino",
+            "General Villegas",
+            "América",
+            "General Pico",
+        ],
+        "empresas": [
+            "Cóndor Estrella"
         ]
     },
     {
