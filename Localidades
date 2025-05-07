@@ -211,5 +211,9 @@
 { "type": "Feature", "properties": { "id": 206, "nombre": "Los Antiguos", "provincia": "Santa Cruz", "empresa": "a" }, "geometry": { "type": "Point", "coordinates": [ -71.62429128125252, -46.54452201325393 ] } },
 { "type": "Feature", "properties": { "id": 207, "nombre": "Gobernador Gregores", "provincia": "Santa Cruz", "empresa": "a" }, "geometry": { "type": "Point", "coordinates": [ -70.25549058337208, -48.75503803557112 ] } },
 { "type": "Feature", "properties": { "id": 208, "nombre": "Puerto Deseado", "provincia": "Santa Cruz", "empresa": "a" }, "geometry": { "type": "Point", "coordinates": [ -65.88439182239347, -47.74708381711996 ] } },
+{ "type": "Feature", "properties": { "id": 208, "nombre": "28 de Noviembre", "provincia": "Santa Cruz", "empresa": "a" }, "geometry": { "type": "Point", "coordinates": [ -72.22393529357468, -51.60045928298257 ] } },
+{ "type": "Feature", "properties": { "id": 208, "nombre": "Río Turbio", "provincia": "Santa Cruz", "empresa": "a" }, "geometry": { "type": "Point", "coordinates": [ -72.33746761081011, -51.536720408584934 ] } },
+{ "type": "Feature", "properties": { "id": 208, "nombre": "Tres Cerros", "provincia": "Santa Cruz", "empresa": "a" }, "geometry": { "type": "Point", "coordinates": [ -67.65169934128373, -48.14338470556371 ] } },
+{ "type": "Feature", "properties": { "id": 208, "nombre": "Facundo", "provincia": "Chubut", "empresa": "a" }, "geometry": { "type": "Point", "coordinates": [ -69.97410952176072, -45.313133081282565 ] } },
 { "type": "Feature", "properties": { "id": 209, "nombre": "Necochea", "provincia": "Buenos Aires", "empresa": "Plusmar" }, "geometry": { "type": "Point", "coordinates": [ -58.73074505037225, -38.54858638483965 ] } }]
 }
